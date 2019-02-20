@@ -10,7 +10,9 @@ import java.nio.channels.FileChannel;
 /**
  * 获取通道
  *
- * @author zhq
+ * @author wangqiubao
+ *
+ * @date 2019年2月20日15:22:11
  *
  */
 public class GetChannel {
