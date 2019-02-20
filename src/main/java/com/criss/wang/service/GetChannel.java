@@ -12,6 +12,8 @@ import java.nio.channels.FileChannel;
  *
  * @author wangqiubao
  *
+ * @date 2019年2月20日15:22:11
+ *
  */
 public class GetChannel {
 	private static final int SIZE = 1024;
